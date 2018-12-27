@@ -1,10 +1,10 @@
 # Skvoretz-AGM
-Synthetic Attribute Graph Model (AGM) to generate Node Attribute (Binary) Graphs based on the Attraction model introduced by John Skvoretz [2]
+Synthetic Attribute Graph Model (AGM) to generate Node Attribute (Binary) Graphs based on the Attraction model introduced by John Skvoretz [1]
 
 ## How to Run:
 ```python SyntheticLabelGen.py <graph dataset> <number of attribute values> <p> <tau>```
 
-## Examples:
+## Example:
 ```python SyntheticLabelGen.py ./dataset/polblogs.txt 2 0.5 0.25```
 
 ## Algorithm
