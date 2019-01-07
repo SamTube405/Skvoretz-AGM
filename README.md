@@ -27,7 +27,7 @@ Tau value is a quantitative measurement of homophily, where higher values sugges
 
 
 ## Label Graph Properties
-```python SyntheticLabelGen.py ./dataset/polblogs/polblogs.csv 0 1```
+```python AnalyzeLBLGraph.py ./dataset/polblogs/polblogs.csv 0 1```
 
 ## Related Papers:
 1. Skvoretz, J., 2013. Diversity, integration, and social ties: Attraction versus repulsion as drivers of intra-and intergroup relations. American Journal of Sociology, 119(2), pp.486-517.
